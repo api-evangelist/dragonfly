@@ -1,13 +1,30 @@
+aid: dragonfly
 name: Dragonfly
-description: A modern in-memory datastore built for performance and scalability, designed
-  as a drop-in replacement for Redis and Memcached with improved efficiency and throughput.
-url: https://www.dragonflydb.io/
+description: >-
+  A modern in-memory datastore built for performance and scalability, designed
+  as a drop-in replacement for Redis and Memcached with improved efficiency and
+  throughput. Dragonfly uses a multi-threaded, shared-nothing architecture to
+  deliver significantly higher throughput with lower latency than Redis.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Database
-- In-Memory
-- Cache
-- Key-Value Store
-created: '2025'
-modified: '2025'
+  - Database
+  - In-Memory
+  - Cache
+  - Key-Value Store
+  - Redis
+url: https://www.dragonflydb.io/
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.dragonflydb.io/
+  - type: Documentation
+    url: https://www.dragonflydb.io/docs
+  - type: GitHub Organization
+    url: https://github.com/dragonflydb
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
