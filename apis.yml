@@ -8,9 +8,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Cache
   - Database
   - In-Memory
-  - Cache
   - Key-Value Store
   - Redis
 url: https://www.dragonflydb.io/
