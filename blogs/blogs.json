@@ -1,0 +1,13 @@
+{
+  "repo": "dragonfly",
+  "feeds": [
+    {
+      "source": "https://www.dragonflydb.io/blog",
+      "feed_url": "https://www.dragonflydb.io/feed.xml",
+      "saved": 10,
+      "title": "DragonflyDB Blog | RSS feed"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:27:52Z"
+}
