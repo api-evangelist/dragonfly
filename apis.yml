@@ -8,7 +8,7 @@ description: >-
   lower latency than Redis. It is fully compatible with Redis and Memcached
   APIs, requiring no code changes to migrate existing workloads.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Cache
   - Database
