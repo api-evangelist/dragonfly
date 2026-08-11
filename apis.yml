@@ -34,6 +34,14 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: IssueTracker
+    url: https://github.com/dragonflydb/dragonfly/issues
+  - type: Releases
+    url: https://github.com/dragonflydb/dragonfly/releases
+  - type: CodeOfConduct
+    url: https://github.com/dragonflydb/dragonfly/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/dragonflydb/dragonfly/blob/main/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/dragonfly-domain-security.yml
   - type: LinkedIn
