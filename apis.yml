@@ -27,6 +27,14 @@ tags:
   - Key-Value Store
   - Redis
   - Memcached
+  - Open-Source
+tags_raw:
+  - Cache
+  - Database
+  - In-Memory
+  - Key-Value Store
+  - Redis
+  - Memcached
   - Open Source
 url: https://www.dragonflydb.io/
 created: '2025-01-01'
