@@ -10,6 +10,10 @@ description: >-
 type: Index
 deliveryModel:
   model: unknown
+  license_evidence:
+    repo: dragonflydb/dragonfly
+    spdx: NOASSERTION
+    stars: 31680
   open_source: unknown
   commercial: true
   callable_host: false
@@ -18,7 +22,7 @@ deliveryModel:
   source:
   - pricing
   - repository-unlicensed
-  generated: '2026-08-28'
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: unknown
@@ -39,7 +43,7 @@ tags:
   - Key-Value Store
   - Redis
   - Memcached
-  - Open-Source
+  - Open Source
 tags_raw:
   - Cache
   - Database
@@ -48,6 +52,7 @@ tags_raw:
   - Redis
   - Memcached
   - Open Source
+  - Open-Source
 url: https://www.dragonflydb.io/
 created: '2025-01-01'
 modified: '2026-04-28'
